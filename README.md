@@ -1,2 +1,1 @@
-# kata_boilerplate_js
-A minimalistic boilerplate to start kata in javascript
+# The famous "Word Wrap" kata in javascript

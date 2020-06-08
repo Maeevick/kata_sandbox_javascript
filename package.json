@@ -1,0 +1,40 @@
+{
+  "name": "kata_boilerplate_js",
+  "version": "1.0.0",
+  "description": "A minimalistic boilerplate to start kata in javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "lint": "eslint ./src/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maeevick/kata_boilerplate_js.git"
+  },
+  "keywords": [
+    "TDD",
+    "CodingKata",
+    "Boilerplate"
+  ],
+  "author": "Maeevick - GoblinsAtCode",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Maeevick/kata_boilerplate_js/issues"
+  },
+  "homepage": "https://github.com/Maeevick/kata_boilerplate_js#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.10.1",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
+    "babel-jest": "^26.0.1",
+    "eslint": "^7.2.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.21.1",
+    "eslint-plugin-jest": "^23.13.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
+    "jest": "^26.0.1"
+  }
+}
