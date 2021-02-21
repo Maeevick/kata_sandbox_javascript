@@ -1,1 +1,1 @@
-# The famous "Word Wrap" kata in javascript
+# Starter Template for kata in javascript
