@@ -1,6 +1,8 @@
 # Starter Template for kata in javascript
 
-Just a minimalist sandbox/boilerplate to train your skills with javascript, eslint and jest on kata/exercices or something else.
+## Just a minimalist sandbox/boilerplate to train your skills with javascript, eslint and jest on kata/exercices or something else.
+
+### Main commands and configs
 
 - eslint follow "standard" rules (with few personal choices*) feel free to adapt them to your usage
 
@@ -32,7 +34,7 @@ Just a minimalist sandbox/boilerplate to train your skills with javascript, esli
   npm run test:coverage
   ```
   
-# Some resources/kata to train your skills
+### Some resources/kata to train your skills
 
 - https://kata-log.rocks/
 - https://codingdojo.org/
