@@ -6,7 +6,8 @@
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
-    "lint": "eslint ./src/*.js"
+    "test:coverage": "jest --coverage",
+    "lint": "eslint src/**.js --fix"
   },
   "repository": {
     "type": "git",
