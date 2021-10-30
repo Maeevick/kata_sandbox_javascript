@@ -1,4 +1,4 @@
-# Starter Template for kata in javascript
+# KATA SANDBOX WITH JAVASCRIPT
 
 ## Just a minimalist sandbox/boilerplate to train your skills with javascript, eslint and jest on kata/exercices or something else.
 
