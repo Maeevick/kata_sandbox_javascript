@@ -1,5 +1,5 @@
 {
-  "name": "kata_boilerplate_js",
+  "name": "kata_sandbox_javascript",
   "version": "1.0.0",
   "description": "A minimalistic boilerplate to start kata in javascript",
   "main": "index.js",
@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Maeevick/kata_boilerplate_js.git"
+    "url": "git+https://github.com/Maeevick/kata_sandbox_javascript.git"
   },
   "keywords": [
     "TDD",
@@ -20,9 +20,9 @@
   "author": "Maeevick - GoblinsAtCode",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Maeevick/kata_boilerplate_js/issues"
+    "url": "https://github.com/Maeevick/kata_sandbox_javascript/issues"
   },
-  "homepage": "https://github.com/Maeevick/kata_boilerplate_js#readme",
+  "homepage": "https://github.com/Maeevick/kata_sandbox_javascript#readme",
   "devDependencies": {
     "@babel/cli": "^7.10.1",
     "@babel/core": "^7.10.2",
