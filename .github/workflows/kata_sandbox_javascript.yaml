@@ -1,4 +1,4 @@
-name: hs-prelude-integration
+name: kata_sandobox_javascript
 on: [push]
 jobs:
   integrate:
