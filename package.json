@@ -1,7 +1,7 @@
 {
   "name": "kata_sandbox_javascript",
   "version": "1.0.0",
-  "description": "A minimalistic boilerplate to start kata in javascript",
+  "description": "A minimalist sandbox/boilerplate to start kata in javascript",
   "main": "index.js",
   "scripts": {
     "test": "jest",
