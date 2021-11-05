@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "A minimalist sandbox/boilerplate to start kata in javascript",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "jest",
     "test:watch": "jest --watch",
