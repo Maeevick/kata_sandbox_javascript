@@ -1,0 +1,8 @@
+{
+    "clearMocks": true,
+    "coverageDirectory": "../reports/coverage",
+    "coverageProvider": "v8",
+    "rootDir": "src/",
+    "testEnvironment": "node",
+    "transform": {}
+}
