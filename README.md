@@ -22,7 +22,7 @@
   }
   ```
 
-- jest is configured by default (no config file), feel free to custom it
+- jest is configured by default (simpliest config file to accept Node16 modules without babel), feel free to custom it
 
   ```shell
   npm run test
