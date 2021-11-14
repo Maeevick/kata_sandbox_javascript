@@ -1,3 +1,3 @@
 export const isOk = () => true
 
-export const rollDiceWith6Sides = () => Math.floor(Math.random() * 6 + 1)
+export const rollDiceWith6Sides = () => Math.ceil(Math.random() * 6)
