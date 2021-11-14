@@ -13,7 +13,7 @@ describe('SETUP PROPERTY-BASED TESTING WITH FAST-CHECK AND JEST', () => {
 
         pbt.assert(
             pbt.property(
-                pbt.integer(),
+                pbt.anything(),
                 () => {
                     const diceResult = rollDiceWith6Sides()
                     return diceResult >= 1 && diceResult <= 6
