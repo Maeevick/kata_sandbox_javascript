@@ -1,6 +1,6 @@
 # JS kata sandbox
 
-## Just a minimalist sandbox/boilerplate to train your skills with javascript, eslint and jest on kata/exercices or something else.
+Just a minimalist sandbox/boilerplate to train your skills with javascript, eslint and jest on kata/exercices or something else.
 
 ### Main commands and configs
 
