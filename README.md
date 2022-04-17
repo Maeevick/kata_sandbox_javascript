@@ -2,6 +2,13 @@
 
 Just a minimalist sandbox/boilerplate to train your skills with javascript, eslint and jest on kata/exercices or something else.
 
+:arrow_right: **Obvious Note**: Node 16 (Long Time Support) is recommended in any context.
+
+:arrow_right: **Obvious Note**: install dependencies
+```shell
+npm i
+```
+
 ### Main commands and configs
 
 - eslint follow "standard" rules (with few personal choices*) feel free to adapt them to your usage
