@@ -1,4 +1,4 @@
-name: kata_sandobox_javascript
+name: kata_sandbox_javascript
 on: [push]
 jobs:
   integrate:
