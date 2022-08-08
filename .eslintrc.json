@@ -9,10 +9,6 @@
         "eslint:recommended",
         "plugin:jest/recommended"
     ],
-    "parserOptions": {
-        "ecmaVersion": 12,
-        "sourceType": "module"
-    },
     "plugins": [
         "jest"
     ],
@@ -20,6 +16,10 @@
         "jest": {
             "version": 27
         }
+    },
+    "parserOptions": {
+        "ecmaVersion": 12,
+        "sourceType": "module"
     },
     "ignorePatterns": ["*.config.ts", "*.config.js"],
     "rules": {
