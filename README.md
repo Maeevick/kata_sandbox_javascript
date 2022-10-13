@@ -2,7 +2,7 @@
 
 Just a minimalist sandbox/boilerplate to train your skills with javascript, eslint and jest on kata/exercices or something else.
 
-:arrow_right: **Obvious Note**: Node 16 (Long Time Support) is recommended in any context.
+:arrow_right: **Obvious Note**: Node 18 (Long Time Support) is recommended in any context.
 
 :arrow_right: **Obvious Note**: install dependencies
 ```shell
